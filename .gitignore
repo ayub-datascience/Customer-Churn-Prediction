@@ -21,4 +21,5 @@ Thumbs.db
 *.log
 
 # Large ML/data files are tracked with Git LFS
-# Do NOT add CSV/joblib here if you want them on GitHub.
+# Do NOT add CSV/joblib here if you want them on GitHub..virtual_documents/
+.virtual_documents/
