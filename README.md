@@ -253,7 +253,7 @@ The final business decision should balance the cost of:
 * Missing a customer who will churn (**False Negative**)
 * Incorrectly targeting a customer who would not have churned (**False Positive**)
 
-Important Note: I also calculated all these metrics such as: Precision, F1-score, Confusion Matrix and  ROC-AUC for all the 4 ML models. You can check it by opening "metrics" folder.
+Important Note: I also calculated all these metrics such as: Precision, F1-score, Confusion Matrix and ROC-AUC for all the 4 ML models. You can check it by opening "metrics" folder.
 ---
 
 ## 🛠️ Technologies Used
@@ -283,6 +283,10 @@ This project demonstrates practical understanding of:
 * Gradient Boosting
 * Cross-Validation
 * Recall
+* Precision
+* F1-score
+* Confusion Matrix
+* ROC-AUC
 * Model Comparison
 * Model Selection
 * Customer Churn Prediction
