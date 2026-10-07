@@ -253,6 +253,7 @@ The final business decision should balance the cost of:
 * Missing a customer who will churn (**False Negative**)
 * Incorrectly targeting a customer who would not have churned (**False Positive**)
 
+Important Note: I also calculated all these metrics such as: Precision, F1-score, Confusion Matrix and  ROC-AUC for all the 4 ML models. You can check it by opening "metrics" folder.
 ---
 
 ## 🛠️ Technologies Used
@@ -260,8 +261,7 @@ The final business decision should balance the cost of:
 * **Python**
 * **Pandas** — Data manipulation
 * **NumPy** — Numerical computation
-* **Matplotlib** — Data visualization
-* **Seaborn** — Statistical visualization
+* **Matplotlib and Seaborn** — Data visualization
 * **Scikit-learn** — Machine learning and model evaluation
 * **Jupyter Notebook** — Development and experimentation
 
