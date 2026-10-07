@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.log
+
+# Large ML/data files are tracked with Git LFS
+# Do NOT add CSV/joblib here if you want them on GitHub.
